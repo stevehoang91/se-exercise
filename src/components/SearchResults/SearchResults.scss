@@ -1,0 +1,31 @@
+.searchResultContainer {
+  text-align: center;
+  border: 1px solid #000;
+}
+
+.searchResult {
+  margin: 50px 0px;
+}
+
+img {
+  width: 95vw;
+  max-width: 640px;
+}
+
+.resultCount {
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.moreDetails {
+  margin: 20px 0px;
+}
+
+.breadcrumbLinks {
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.breadcrumbLinks:hover {
+  text-decoration: underline;
+}

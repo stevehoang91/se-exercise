@@ -1,0 +1,17 @@
+.description {
+  margin: 0px 10px;
+}
+
+.breadcrumb {
+  display: flex;
+  justify-content: center;
+  column-gap: 5px;
+}
+
+.breadcrumbLinks {
+  cursor: pointer;
+}
+
+.breadcrumbLinks:hover {
+  text-decoration: underline;
+}
