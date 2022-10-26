@@ -1,6 +1,6 @@
 # Front end engineer take home challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). A simple single page application (SPA) that allows a user to search for a holiday a view some basic details about it. With more time, would look to implement css modules, pagination of search results, user functionality around how many results to view on page and more css upgrades.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). A simple single page application (SPA) that allows a user to search for a holiday and view some basic details about it. With more time, would look to implement css modules, pagination of search results, user functionality around how many results to view on page and more styling upgrades.
 
 ## Available Scripts
 
